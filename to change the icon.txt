@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --windowed --icon=mp3.ico player.py

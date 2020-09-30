@@ -1,0 +1,1 @@
+pyinstaller --hidden-import=pkg_resources.py2_warn --onefile --noconsole --windowed --icon='MP3 Music Player.ico' 'MP3 Music Player.py'
