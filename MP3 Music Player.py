@@ -303,7 +303,7 @@ status_bar.pack(fill=X, side=BOTTOM, ipady=2)
 
 
 # Temporary Label
-my_label = Label(root, text='Copyright@Aziz2020dib/AS')
+my_label = Label(root, text='MP3 Music Player@Version2.0')
 my_label.pack(pady=200, padx=100)
 
 
